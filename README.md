@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AliandraZanini&bg_color=000000&color=9e4c98&line=7f1a78&point=363636&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AliandraZanini&bg_color=171717&color=9e4c98&line=680075&point=5c5c5c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AliandraZanini&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
